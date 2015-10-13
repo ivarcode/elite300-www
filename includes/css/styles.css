@@ -6,13 +6,23 @@ File: styles.css
 /* --------------------------------------
    Layout
    -------------------------------------- */
-.background { 
+.background {
    background-image: url("../../img/bg_image.jpg");
    background-repeat: no-repeat;
    background-position: center;
    background-size: cover;
    width: 100%;
    height: 100%;
+   color: #ffffff;
+}
+
+.row {
+   margin-left: 100px;
+   margin-right: 100px;
+}
+
+.col-sm-12 {
+   margin-bottom: 30px;
 }
 
 footer {
@@ -64,8 +74,8 @@ ul.unstyled {
    margin: 15px;
    width: 100px;
 }
-   
-   
+
+
 /* --------------------------------------
    Slideshow
    -------------------------------------- */
@@ -121,12 +131,12 @@ ul.unstyled {
 
 /* Portrait & landscape phone */
 @media (max-width: 480px) {
-	
+
 }
 
 /* Landscape phone to portrait tablet */
 @media (max-width: 768px) {
-	
+
    #slideshow .item { height: 310px; }
 
    #slide1 {
@@ -151,7 +161,7 @@ ul.unstyled {
 
 /* Large desktop */
 @media (min-width: 1200px) {
-	
+
    #slideshow .item { height: 500px; }
 
    #slide1 {

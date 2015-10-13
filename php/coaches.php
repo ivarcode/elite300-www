@@ -36,12 +36,20 @@ File: template.php
 			<hr>
 
 			<div class="row" id="coach_list">
-				<div class="col-sm-4">
-					<h1><b>Eric Wagner</b></h1>
-					<img src="./img/ewagner.jpg">
+				<div class="col-sm-12">
+					<h3><b>Rudy Fuller</b></h3>
+					<img src="http://placehold.it/200" class="thumbnail pull-left">
+					<p>bio text</p>
 				</div>
-				<div class="col-sm-8">
-
+				<div class="col-sm-12">
+					<h3><b>Keith Tabatznik</b></h3>
+					<img src="http://placehold.it/200" class="thumbnail pull-left">
+					<p>bio text</p>
+				</div>
+				<div class="col-sm-12">
+					<h3><b>Eric Wagner</b></h3>
+					<img src="http://placehold.it/200" class="thumbnail pull-left">
+					<p>bio text</p>
 				</div>
 			</div>
 
