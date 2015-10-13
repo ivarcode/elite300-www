@@ -25,6 +25,11 @@ File: styles.css
    margin-bottom: 30px;
 }
 
+.col-sm-8 {
+   margin-top: 5px;
+   font-size: 16px;
+}
+
 footer {
    background: #333;
    color: #eee;
