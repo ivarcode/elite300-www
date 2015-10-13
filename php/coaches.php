@@ -37,7 +37,11 @@ File: template.php
 
 			<div class="row" id="coach_list">
 				<div class="col-sm-4">
-					
+					<h1><b>Eric Wagner</b></h1>
+					<img src="./img/ewagner.jpg">
+				</div>
+				<div class="col-sm-8">
+
 				</div>
 			</div>
 
