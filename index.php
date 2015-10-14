@@ -80,7 +80,7 @@ File: index.php
 			<div class="row" id="info">
 				<div class="col-sm-4">
 					<h3><center>Jonny Dolezal</center></h3>
-					<center><img src="#"></center>
+					<center><img src="http://placehold.it/200"></center>
 					<p>2009 Elite 300 All-Star
 						<br>Penn '14
 						<br>2013 Ivy League Champion
@@ -89,7 +89,7 @@ File: index.php
 				</div>
 				<div class="col-sm-4">
 					<h3><center>Jonny Dolezal</center></h3>
-					<center><img src="#"></center>
+					<center><img src="http://placehold.it/200"></center>
 					<p>2009 Elite 300 All-Star
 						<br>Penn '14
 						<br>2013 Ivy League Champion
@@ -98,7 +98,7 @@ File: index.php
 				</div>
 				<div class="col-sm-4">
 					<h3><center>Jonny Dolezal</center></h3>
-					<center><img src="#"></center>
+					<center><img src="http://placehold.it/200"></center>
 					<p>2009 Elite 300 All-Star
 						<br>Penn '14
 						<br>2013 Ivy League Champion
@@ -107,7 +107,7 @@ File: index.php
 				</div>
 				<div class="col-sm-4">
 					<h3><center>Jonny Dolezal</center></h3>
-					<center><img src="#"></center>
+					<center><img src="http://placehold.it/200"></center>
 					<p>2009 Elite 300 All-Star
 						<br>Penn '14
 						<br>2013 Ivy League Champion
@@ -116,7 +116,7 @@ File: index.php
 				</div>
 				<div class="col-sm-4">
 					<h3><center>Jonny Dolezal</center></h3>
-					<center><img src="#"></center>
+					<center><img src="http://placehold.it/200"></center>
 					<p>2009 Elite 300 All-Star
 						<br>Penn '14
 						<br>2013 Ivy League Champion
@@ -125,7 +125,7 @@ File: index.php
 				</div>
 				<div class="col-sm-4">
 					<h3><center>Jonny Dolezal</center></h3>
-					<center><img src="#"></center>
+					<center><img src="http://placehold.it/200"></center>
 					<p>2009 Elite 300 All-Star
 						<br>Penn '14
 						<br>2013 Ivy League Champion
