@@ -36,6 +36,8 @@ File: index.php
 			<hr>
 			<hr>
 
+			<h1><center>Elite 300 Soccer Academy</center></h1>
+
 			<div class="carousel slide" id="slideshow">
 
 				<!-- Indicators -->
@@ -76,46 +78,62 @@ File: index.php
 			<hr>
 
 			<div class="row" id="info">
-				<div class="col-sm-12">
-					<h2><center>null</center></h2>
-					<h4><center>null</center></h4>
+				<div class="col-sm-4">
+					<h3><center>Jonny Dolezal</center></h3>
+					<center><img src="#"></center>
+					<p>2009 Elite 300 All-Star
+						<br>Penn '14
+						<br>2013 Ivy League Champion
+						<br>All-Ivy League
+						<br>Penn Men's Soccer Team Captain</p>
 				</div>
-			</div>
-			<hr>
-			<div class="row" id="workexp">
-				<div class="col-sm-12">
-					<h2><center>null</center></h2>
-					<h4><center>null</center></h4>
+				<div class="col-sm-4">
+					<h3><center>Jonny Dolezal</center></h3>
+					<center><img src="#"></center>
+					<p>2009 Elite 300 All-Star
+						<br>Penn '14
+						<br>2013 Ivy League Champion
+						<br>All-Ivy League
+						<br>Penn Men's Soccer Team Captain</p>
+				</div>
+				<div class="col-sm-4">
+					<h3><center>Jonny Dolezal</center></h3>
+					<center><img src="#"></center>
+					<p>2009 Elite 300 All-Star
+						<br>Penn '14
+						<br>2013 Ivy League Champion
+						<br>All-Ivy League
+						<br>Penn Men's Soccer Team Captain</p>
+				</div>
+				<div class="col-sm-4">
+					<h3><center>Jonny Dolezal</center></h3>
+					<center><img src="#"></center>
+					<p>2009 Elite 300 All-Star
+						<br>Penn '14
+						<br>2013 Ivy League Champion
+						<br>All-Ivy League
+						<br>Penn Men's Soccer Team Captain</p>
+				</div>
+				<div class="col-sm-4">
+					<h3><center>Jonny Dolezal</center></h3>
+					<center><img src="#"></center>
+					<p>2009 Elite 300 All-Star
+						<br>Penn '14
+						<br>2013 Ivy League Champion
+						<br>All-Ivy League
+						<br>Penn Men's Soccer Team Captain</p>
+				</div>
+				<div class="col-sm-4">
+					<h3><center>Jonny Dolezal</center></h3>
+					<center><img src="#"></center>
+					<p>2009 Elite 300 All-Star
+						<br>Penn '14
+						<br>2013 Ivy League Champion
+						<br>All-Ivy League
+						<br>Penn Men's Soccer Team Captain</p>
 				</div>
 			</div>
 
-			<hr>
-
-			<div class="row" id="info">
-				<div class="col-sm-6">
-					<h2>null</h2>
-					<p>null</h3>
-					<div class="list-group">
-						<a href="#" class="list-group-item">
-							<h4 class="list-group-item-heading">null</h4>
-							<p class="list-group-item-text">null</p>
-						</a>
-					</div><!-- end list-group -->
-				</div><!-- end col-sm-6 -->
-				<div class="col-sm-6">
-					<h2>null</h2>
-					<p>null</p>
-					<h3>null</h3>
-					<p>null</p>
-					<div class="list-group">
-						<a href="#" class="list-group-item">
-							<h4 class="list-group-item-heading">null</h4>
-							<p class="list-group-item-text">null</p>
-						</a>
-					</div><!-- end list-group -->
-					<p><!-- null --></p>
-				</div><!-- end col-sm-6 -->
-			</div><!-- end info -->
 
 		</div><!-- end container -->
 
