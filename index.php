@@ -85,52 +85,48 @@ File: index.php
 						<br>Penn '14
 						<br>2013 Ivy League Champion
 						<br>All-Ivy League
-						<br>Penn Men's Soccer Team Captain</p>
+						<br>Penn Men's Soccer Captain</p>
 				</div>
 				<div class="col-sm-4">
-					<h3><center>Jonny Dolezal</center></h3>
+					<h3><center>Antoine Hoppenot</center></h3>
 					<center><img src="http://placehold.it/200"></center>
-					<p>2009 Elite 300 All-Star
-						<br>Penn '14
-						<br>2013 Ivy League Champion
-						<br>All-Ivy League
-						<br>Penn Men's Soccer Team Captain</p>
+					<p>2007 Elite 300 All-Star
+						<br>Princeton
+						<br>2010 Ivy League Player of the Year
+						<br>Philadelphia Union (MLS)</p>
 				</div>
 				<div class="col-sm-4">
-					<h3><center>Jonny Dolezal</center></h3>
+					<h3><center>Tobi Olopade</center></h3>
 					<center><img src="http://placehold.it/200"></center>
-					<p>2009 Elite 300 All-Star
-						<br>Penn '14
-						<br>2013 Ivy League Champion
-						<br>All-Ivy League
-						<br>Penn Men's Soccer Team Captain</p>
+					<p>2007 Elite 300 All-Star
+						<br>Penn '11
+						<br>St. Paul's School (NH)
+						<br>2008 Ivy League Champion
+						<br>Penn Men's Soccer Captain</p>
 				</div>
 				<div class="col-sm-4">
-					<h3><center>Jonny Dolezal</center></h3>
+					<h3><center>Ben Berg</center></h3>
 					<center><img src="http://placehold.it/200"></center>
-					<p>2009 Elite 300 All-Star
-						<br>Penn '14
-						<br>2013 Ivy League Champion
-						<br>All-Ivy League
-						<br>Penn Men's Soccer Team Captain</p>
+					<p>2006 Elite 300 All-Star
+						<br>Penn '11
+						<br>2008 Ivy League Champion
+						<br>All-Ivy League</p>
 				</div>
 				<div class="col-sm-4">
-					<h3><center>Jonny Dolezal</center></h3>
+					<h3><center>Ike Opara</center></h3>
 					<center><img src="http://placehold.it/200"></center>
-					<p>2009 Elite 300 All-Star
-						<br>Penn '14
-						<br>2013 Ivy League Champion
-						<br>All-Ivy League
-						<br>Penn Men's Soccer Team Captain</p>
+					<p>2006 Elite 300 All-Star
+						<br>Wake Forest
+						<br>NSCAA All-American
+						<br>US U-20 National Team
+						<br>Sporting KC (MLS)</p>
 				</div>
 				<div class="col-sm-4">
-					<h3><center>Jonny Dolezal</center></h3>
+					<h3><center>Ema Boateng</center></h3>
 					<center><img src="http://placehold.it/200"></center>
-					<p>2009 Elite 300 All-Star
-						<br>Penn '14
-						<br>2013 Ivy League Champion
-						<br>All-Ivy League
-						<br>Penn Men's Soccer Team Captain</p>
+					<p>2008 Elite 300 All-Star
+						<br>UC Santa Barbara
+						<br>Helsingborgs IF (Swedish Premier League)</p>
 				</div>
 			</div>
 
