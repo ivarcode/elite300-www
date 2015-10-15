@@ -41,7 +41,7 @@ File: index.php (THE TEMP PAGE)
 			<center><h4>Held at Swarthmore College in southeastern Pennsylvania each summer, the Elite 300 Soccer Academy is the nation's #1 program for college-bound soccer players.</h4></center>
 			<center><h4>If you are a serious soccer player this is the program for you.</h4></center>
 			<hr>
-			<center><h2>More information to come soon!</h2></center>
+			<center><h2>Elite 300 2015 will be held on July 2nd-6th and July 6th-10th</h2></center>
 			<center><h2>Like us on <a href="https://www.facebook.com/Elite-300-Soccer-Academy-151214754924626/" style="color:red">Facebook</a></h2></center>
 			<center><p>for more information, photos, and details about the Elite 300 Soccer Academy.</p></center>
 			<hr>
