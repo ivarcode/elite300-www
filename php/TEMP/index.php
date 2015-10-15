@@ -7,7 +7,7 @@ File: index.php (THE TEMP PAGE)
 <html>
 	<head>
 		<!-- Website Title & Description -->
-		<title>TEMPLATE</title>
+		<title>elite300.com</title>
 		<meta name="description" content="">
 		
 		<!-- Mobile viewport optimized -->
@@ -18,7 +18,7 @@ File: index.php (THE TEMP PAGE)
 		<link href="../includes/css/bootstrap-glyphicons.css" rel="stylesheet">
 		
 		<!-- Custom CSS -->
-		<link href="../includes/css/styles.css" rel="stylesheet">
+		<link href="../../includes/css/styles.css" rel="stylesheet">
 
 		<!-- including FireBase script -->
 		<script src="https://cdn.firebase.com/js/client/2.2.9/firebase.js"></script>
@@ -33,6 +33,12 @@ File: index.php (THE TEMP PAGE)
 			
 
 			<hr>
+
+			<h1><center><b>Elite 300 Soccer Academy</b></center></h1>
+			<center><img src="../../img/logo.png"></center>
+			<center><h2>Check back here regularly for the <b>NEW</b> Elite 300 website</h2></center>
+			
+
 
 			<div class="carousel slide" id="slideshow">
 			</div><!-- end slideshow -->
