@@ -77,6 +77,10 @@ File: index.php
 
 			<hr>
 
+			<center><a href="http://google.com"><button type="" name="register" style="background: url(./img/register_button300x75.png); width:300px; height:75px; border:none;"></button></a></center>
+
+			<hr>
+
 			<div class="row" id="info">
 				<div class="col-sm-4">
 					<h3><center>Jonny Dolezal</center></h3>
