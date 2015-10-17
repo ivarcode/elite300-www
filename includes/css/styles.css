@@ -43,6 +43,8 @@ File: styles.css
 }
 
 #coach-bio img {
+   height: 200px;
+   width: 200px;
    border: none;
 }
 

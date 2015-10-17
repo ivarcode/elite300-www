@@ -36,19 +36,19 @@ File: coaches.php
 			<hr>
 
 			<div class="row" id="coach_list">
-				<div class="col-sm-12">
+				<div class="col-sm-12" id="coach-bio">
 					<h3><b>Rudy Fuller</b></h3>
-					<img src="http://placehold.it/200" class="thumbnail pull-left" id="coach-bio">
+					<img src="http://placehold.it/100" class="thumbnail pull-left" id="coach-bio">
 					<p>The James C. Gentle Head Coach of Men’s Soccer, Rudy Fuller enters his 18th season at the helm of the University of Pennsylvania men’s soccer program in 2015. In his tenure at Penn, Fuller has elevated the Quakers’ notoriety in the Ivy League and nationally. From renovating Rhodes Field to recruiting some of the </p>
 				</div>
-				<div class="col-sm-12">
+				<div class="col-sm-12" id="coach-bio">
 					<h3><b>Keith Tabatznik</b></h3>
-					<img src="http://placehold.it/200" class="thumbnail pull-left" id="coach-bio">
+					<img src="http://placehold.it/100" class="thumbnail pull-left" id="coach-bio">
 					<p>In 1994, Keith was named the South Atlantic Region and BIG EAST Coach of the Year after leading the Hoyas to an incredible 18-4 record and the school's first-ever berth in the NCAA Championship as well as its first BIG EAST Regular Season Title. Thirteen former Hoyas have become professional players.</p><p>In addition to taking </p>
 				</div>
-				<div class="col-sm-12">
+				<div class="col-sm-12" id="coach-bio">
 					<h3><b>Eric Wagner</b></h3>
-					<img src="http://placehold.it/200" class="thumbnail pull-left" id="coach-bio">
+					<img src="./img/ewagner.jpg" class="thumbnail pull-left" id="coach-bio">
 					<p>Eric Wagner took over the Garnet soccer program in 2002, transforming the team in short order. In 13 seasons, Wagner's teams have posted a 159-73-32 record, and have had 16 postseason tournament appearances.</p><p>In 2013, Swarthmore captured its third ECAC championship and posted an undefeated home ledger of 9-0-3 at Clothier Field.</p><p>Named Centennial Conference Coach of the Year in 2012, </p>
 				</div>
 			</div>
