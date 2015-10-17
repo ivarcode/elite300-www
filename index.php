@@ -51,20 +51,20 @@ File: index.php
 				<div class="carousel-inner">
 					<div class="item active" id="slide1">
 						<div class="carousel-caption">
-							<h4>SITE UNDER CONSTRUCTION</h4>
-							<p>null</p>
+							<h3>Train with and compete against serious talent from around the country</h3>
+							<p></p>
 						</div>
 					</div>
 					<div class="item" id="slide2">
 						<div class="carousel-caption">
-							<h4>SITE UNDER CONSTRUCTION</h4>
-							<p>null</p>
+							<h3>Be seen by some of America's top soccer coaches</h3>
+							<p></p>
 						</div>
 					</div>
 					<div class="item" id="slide3">
 						<div class="carousel-caption">
-							<h4>SITE UNDER CONSTRUCTION</h4>
-							<p>null</p>
+							<h3>Experience the collegiate training and playing atmosphere that our first-rate coaching staff creates</h3>
+							<p></p>
 						</div>
 					</div>
 				</div><!-- end carousel-inner -->
