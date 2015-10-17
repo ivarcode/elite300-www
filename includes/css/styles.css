@@ -42,10 +42,18 @@ File: styles.css
    margin-bottom: 10px;
 }
 
+#coaches {
+   margin-bottom: 0px;
+}
+
 #coach-bio img {
    height: 200px;
    width: 200px;
-   border: none;
+}
+
+#coaches img {
+   height: 150px;
+   width: 150px;
 }
 
 #info {

@@ -79,6 +79,9 @@ File: index.php
 
 			<center><a href="http://google.com"><button type="" name="register" style="background: url(./img/register_button300x75.png); width:300px; height:75px; border:none;"></button></a></center>
 
+			<center><h2>2015</h2></center>
+			<center><h3>July 2nd-6th / July 6th-10th</h3></center>
+
 			<hr>
 
 			<div class="row" id="info">
