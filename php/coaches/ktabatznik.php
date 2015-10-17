@@ -7,15 +7,15 @@ File: ktabatznik.php
 <html>
 	<head>
 		<!-- Website Title & Description -->
-		<title>Coaches</title>
+		<title>Keith Tabatznik</title>
 		<meta name="description" content="">
 
 		<!-- Mobile viewport optimized -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 		<!-- Bootstrap CSS -->
-		<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
-		<link href="../includes/css/bootstrap-glyphicons.css" rel="stylesheet">
+		<link href="../../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		<link href="../../includes/css/bootstrap-glyphicons.css" rel="stylesheet">
 
 		<!-- Custom CSS -->
 		<link href="../../includes/css/styles.css" rel="stylesheet">
@@ -24,14 +24,14 @@ File: ktabatznik.php
 		<script src="https://cdn.firebase.com/js/client/2.2.9/firebase.js"></script>
 
 		<!-- Include Modernizr in the head, before any other Javascript -->
-		<script src="../includes/js/modernizr-2.6.2.min.js"></script>
+		<script src="../../includes/js/modernizr-2.6.2.min.js"></script>
 	</head>
 	<body>
 		<div class="background">
 		<!-- Layout -->
 		<div class="container" id="main">
 
-			<?php include './header.php';?>
+			<?php include '../header.php';?>
 
 			<hr>
 
@@ -63,7 +63,7 @@ File: ktabatznik.php
 
 		</div><!--end background -->
 
-		<?php include './footer.php';?>
+		<?php include '../footer.php';?>
 
 		<!-- All Javascript at the bottom of the page for faster page loading -->
 		<!-- First try for the online version of jQuery-->
