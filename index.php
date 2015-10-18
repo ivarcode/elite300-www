@@ -37,6 +37,10 @@ File: index.php
 			<hr>
 
 			<h1><center>Elite 300 Soccer Academy</center></h1>
+			<center><h4>July 2nd-6th  2015</h4></center>
+			<center><h4>July 6th-10th 2015</h4></center>
+
+			<center><a href="http://google.com"><button type="" name="register" style="background: url(./img/register_button300x75.png); width:300px; height:75px; border:none;"></button></a></center>
 
 			<div class="carousel slide" id="slideshow">
 
@@ -74,13 +78,6 @@ File: index.php
 				<a class="right carousel-control" data-slide="next" href="#slideshow"><span class="icon-next"></span></a>
 
 			</div><!-- end slideshow -->
-
-			<hr>
-
-			<center><a href="http://google.com"><button type="" name="register" style="background: url(./img/register_button300x75.png); width:300px; height:75px; border:none;"></button></a></center>
-
-			<center><h2>2015</h2></center>
-			<center><h3>July 2nd-6th / July 6th-10th</h3></center>
 
 			<hr>
 
