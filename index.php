@@ -82,6 +82,9 @@ File: index.php
 
 			<hr>
 
+			<center><h2>Elite 300 Soccer Academy</h2></center>
+			<center><h4>The Elite 300 Soccer Academy is an multiple day, overnight soccer camp.... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan neque eu consectetur cursus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam non velit nibh. Vivamus ut diam at lorem semper feugiat. Donec tristique felis non purus interdum convallis at sit amet sem. Quisque sagittis dolor in suscipit ultrices. Ut elementum orci risus, eu molestie nisi laoreet sit amet. Proin bibendum magna mi, ac consectetur tortor euismod et. Donec venenatis, tortor nec tincidunt ullamcorper, augue ligula aliquam sem, vel finibus velit nisi in purus.</h4></center>
+
 			<div class="row" id="info">
 				<div class="col-sm-4">
 					<h3><center>Jonny Dolezal</center></h3>
