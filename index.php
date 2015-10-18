@@ -36,6 +36,7 @@ File: index.php
 			<hr>
 			<hr>
 
+			<!-- TODO -->
 			<h1><center>Elite 300 Soccer Academy</center></h1>
 			<center><h4>July 2nd-6th  2015</h4></center>
 			<center><h4>July 6th-10th 2015</h4></center>
