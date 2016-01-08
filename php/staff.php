@@ -5,29 +5,29 @@ File: staff.php
 
 <!DOCTYPE html>
 <html>
-	<head>
-		<!-- Website Title & Description -->
-		<title>Staff</title>
-		<meta name="description" content="">
+<head>
+	<!-- Website Title & Description -->
+	<title>Staff</title>
+	<meta name="description" content="">
 
-		<!-- Mobile viewport optimized -->
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<!-- Mobile viewport optimized -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<!-- Bootstrap CSS -->
-		<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
-		<link href="../includes/css/bootstrap-glyphicons.css" rel="stylesheet">
+	<!-- Bootstrap CSS -->
+	<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link href="../includes/css/bootstrap-glyphicons.css" rel="stylesheet">
 
-		<!-- Custom CSS -->
-		<link href="../includes/css/styles.css" rel="stylesheet">
+	<!-- Custom CSS -->
+	<link href="../includes/css/styles.css" rel="stylesheet">
 
-		<!-- including FireBase script -->
-		<script src="https://cdn.firebase.com/js/client/2.2.9/firebase.js"></script>
+	<!-- including FireBase script -->
+	<script src="https://cdn.firebase.com/js/client/2.2.9/firebase.js"></script>
 
-		<!-- Include Modernizr in the head, before any other Javascript -->
-		<script src="../includes/js/modernizr-2.6.2.min.js"></script>
-	</head>
-	<body>
-		<div class="background">
+	<!-- Include Modernizr in the head, before any other Javascript -->
+	<script src="../includes/js/modernizr-2.6.2.min.js"></script>
+</head>
+<body>
+	<div class="background">
 		<!-- Layout -->
 		<div class="container" id="main">
 
@@ -41,6 +41,19 @@ File: staff.php
 			<center><h1>2015 Staff</h1></center>
 
 			<hr>
+
+			<center><h3>These college & university soccer programs are represented on the Elite 300 Soccer Academy staff:</h3></center>
+
+			<div id="logos">
+				<center><a href="#" title="Penn"><img src="./img/penn_logo.jpg"></a>
+				<a href="#" title="Swarthmore"><img src="./img/swarthmore_logo.jpg"></a>
+				<a href="#" title="Georgetown"><img src="./img/georgetown_logo.jpg"></a>
+				<a href="#" title="Drexel"><img src="./img/drexel_logo.jpg"></a>
+				<a href="#" title="Louisville"><img src="./img/louisville_logo.jpg"></a>
+				<a href="#" title="Connecticut College"><img src="./img/connecticut_college_logo.jpg"></a>
+				<a href="#" title="Bowdoin"><img src="./img/bowdoin_logo.jpg"></a>
+				<a href="#" title="Lehigh"><img src="./img/lehigh_logo.jpg"></a></center>
+			</div>
 
 			<div class="row" id="coach_list">
 				<div class="col-sm-12" id="coaches">
@@ -76,19 +89,19 @@ File: staff.php
 
 		</div><!-- end container -->
 
-		</div><!--end background -->
+	</div><!--end background -->
 
-		<?php include './footer.php';?>
+	<?php include './footer.php';?>
 
-		<!-- All Javascript at the bottom of the page for faster page loading -->
-		<!-- First try for the online version of jQuery-->
-		<script src="http://code.jquery.com/jquery.js"></script>
-		<!-- If no online access, fallback to our hardcoded version of jQuery -->
-		<script>window.jQuery || document.write('<script src="includes/js/jquery-1.8.2.min.js"><\/script>')</script>
-		<!-- Bootstrap JS -->
-		<script src="bootstrap/js/bootstrap.min.js"></script>
-		<!-- Custom JS -->
-		<script src="includes/js/script.js"></script>
+	<!-- All Javascript at the bottom of the page for faster page loading -->
+	<!-- First try for the online version of jQuery-->
+	<script src="http://code.jquery.com/jquery.js"></script>
+	<!-- If no online access, fallback to our hardcoded version of jQuery -->
+	<script>window.jQuery || document.write('<script src="includes/js/jquery-1.8.2.min.js"><\/script>')</script>
+	<!-- Bootstrap JS -->
+	<script src="bootstrap/js/bootstrap.min.js"></script>
+	<!-- Custom JS -->
+	<script src="includes/js/script.js"></script>
 
-	</body>
+</body>
 </html>
