@@ -43,6 +43,28 @@ File: registration.php
 
 			<hr>
 
+			<center><h3>Elite 300 Soccer Academy & Elite 300 Juniors Tuition:</h3></center>
+
+			<h3><b>Tuition</b></h3>
+			<h4>Overnight Camper: $645</h4>
+			<h4>Commuter: $525</h4>
+			<h5>* This includes room and meals, all training and match play, and the exclusive Elite 300 Soccer Academy uniform.</h5>
+
+			<h3><b>Airport Shuttle</b></h3>
+			<h4>One Way: $25</h4>
+			<h4>Round Trip: $35</h4>
+
+			<h3><b>All Registrations</b></h3>
+			<h4>$200 deposit (NON-REFUNDABLE)</h4>
+			<h4>Balance will be due on [tbd]</h4>
+
+			<hr>
+
+			<h3><b>Refund Policy</b></h3>
+			<h4>$200 deposit is non-refundable</h4>
+			<h4>Prior to June 1, we will refund all monies above and beyond $200 non-refundable deposit.</h4>
+			<h4>After June 1, no refunds will be made.</h4>
+
 			<div class="carousel slide" id="slideshow">
 			</div><!-- end slideshow -->
 
