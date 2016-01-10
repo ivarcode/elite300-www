@@ -96,6 +96,15 @@ ul.unstyled {
    margin: 1px;
    margin-top: 10px;
 }
+#coaches h3 i {
+   margin-left: 12px;
+   font-size: 18px;
+}
+
+#coach-bio h3 i {
+   margin-left: 12px;
+   font-size: 18px;
+}
 
 /* --------------------------------------
    Contact
