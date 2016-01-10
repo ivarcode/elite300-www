@@ -10,6 +10,8 @@ File: contact.php
 		<title>Contact</title>
 		<meta charset="utf-8">
 		<meta name="description" content="">
+		
+		<link rel="shortcut icon" href="img/e300.ico" type="e300/ico" />
 
 		<!-- Mobile viewport optimized -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
