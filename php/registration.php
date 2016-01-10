@@ -36,6 +36,7 @@ File: registration.php
 			<hr>
 			<hr>
 
+			<center><img src="./img/logo.png"></center>
 			<center><h1>Tuition and Registration</h1></center>
 
 			<hr>
