@@ -55,9 +55,11 @@ File: registration.php
 			<h4>Round Trip: $35</h4>
 
 			<h3><b>All Registrations</b></h3>
-			<h4>For group & team discounts, please contact Eric Wagner at <a href="#">ewagner1@swarthmore.edu</a> or at 610-690-6882.</h4>
 			<h4>$200 deposit (NON-REFUNDABLE)</h4>
 			<h4>Balance will be due on [tbd]</h4>
+
+			<h3><b>For Group & Team Discounts</b></h3>
+			<h4>Please contact Eric Wagner at <a href="#">ewagner1@swarthmore.edu</a> or at 610-690-6882.</h4>
 
 			<hr>
 
