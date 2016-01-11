@@ -1,13 +1,13 @@
 <!--
 Author: Camden I. Wagner
-File: template.php
+File: facilities.php
 -->
 
 <!DOCTYPE html>
 <html>
 	<head>
 		<!-- Website Title & Description -->
-		<title>TEMPLATE</title>
+		<title>Facilities</title>
 		<meta name="description" content="">
 		
 		<link rel="shortcut icon" href="img/e300.ico" type="e300/ico" />
@@ -40,22 +40,13 @@ File: template.php
 
 			<center><img src="./img/logo.png"></center>
 
-			<center><h1>TEMPLATE</h1></center>
+			<center><h1>Elite 300 Facilities</h1></center>
 
 			<hr>
 
 			<div class="carousel slide" id="slideshow">
 			</div><!-- end slideshow -->
 
-			<div class="row" id="info">
-				<div class="col-sm-6">
-					
-				</div><!-- end col-sm-6 -->
-
-				<div class="col-sm-6">
-					
-				</div><!-- end col-sm-6 -->
-			</div><!-- end info -->
 
 
 		</div><!-- end container -->

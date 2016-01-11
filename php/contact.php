@@ -36,32 +36,16 @@ File: contact.php
 			<hr>
 			<hr>
 
+			<center><img src="./img/logo.png"></center>
+
 			<div class="carousel slide" id="slideshow">
 			</div><!-- end slideshow -->
 
-			<div class="row" id="info">
-				<div class="col-sm-12">
-					<h2><center><b>Contact Us</b></center></h2>
-					<p><center></center></p>
-					<hr>
-					<h3><center></center></h3>
-					<center><input type="text" class="form-control" placeholder="Name" id="contact_name"></center>
-					<center><input type="text" class="form-control" placeholder="Email Address" id="contact_email"></center>
-					<center><input type="text" class="form-control" placeholder="Phone Number (optional)" id="contact_phone"></center>
-					<h3><center></center></h3>
+			<center><h1>Contact Us</h1></center>
 
-					<!--<img src="img/hs.png" class="thumbnail pull-left">
-					<h1>Camden Ivar Wagner</h1>
-					<p></p>-->
-				</div><!-- end col-sm-12 -->
-				<div class="col-sm-6">
+			<hr>
 
-				</div><!-- end col-sm-6 -->
-
-				<div class="col-sm-6">
-
-				</div><!-- end col-sm-6 -->
-			</div><!-- end info -->
+			
 
 
 		</div><!-- end container -->
