@@ -1,0 +1,7 @@
+TODO LIST:
+
+- facilities page w/ photos
+- contacts page
+- register button fix
+- registration page itself
+- ourprog page updates

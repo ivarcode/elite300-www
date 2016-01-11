@@ -45,8 +45,6 @@ File: contact.php
 
 			<hr>
 
-			
-
 
 		</div><!-- end container -->
 
