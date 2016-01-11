@@ -71,7 +71,7 @@ File: staff.php
 					<div class="col-sm-12" id="coaches">
 						<h3>Eric Wagner<i>~ Elite 300 Soccer Academy Director</i></h3>
 						<img src="./img/ewagner.jpg" class="pull-left" id="coach-bio">
-						<p>Eric Wagner took over the Garnet soccer program in 2002, transforming the team in short order. In 13 seasons, Wagner&rsquo;s teams have posted a 159-73-32 record, and have had 16 postseason tournament appearances.</p><p>In 2013, Swarthmore captured its third ECAC championship and posted an undefeated home ledger of 9-0-3 at Clothier Field.</p><p>Named Centennial Conference Coach of the Year in 2012, Wagner led the Garnet to a 16-3-2 record to steer the squad to the third round of the NCAA Tournament for the third time in five years...  <a href="/php/staff/ewagner.php">view full bio</a></p>
+						<p>Eric Wagner took over the Garnet soccer program in 2002, transforming the team in short order. In 14 seasons, Wagner&rsquo;s teams have posted a 166-82-35 record, and have had 17 postseason tournament appearances.</p><p>In 2015, the Garnet earned a post-season bid for the 12th consecutive season. In 2013, Swarthmore captured its third ECAC championship and posted an undefeated home ledger of 9-0-3 at Clothier Field.</p><p>Named Centennial Conference Coach of the Year for the second time in 2012, Wagner led the Garnet to a 16-3-2 record to steer the squad to the Sweet 16 of the NCAA Tournament for the third time in five years...  <a href="/php/staff/ewagner.php">view full bio</a></p>
 					</div>
 				</div>
 
