@@ -50,7 +50,7 @@ File: contact.php
 			<h2 style="margin-top:80px;">Contact Elite 300 Soccer Academy</h2>
 
 			<h4><b>Email:  </b>ewagner1@swarthmore.edu</h4>
-			<h4><b>Phone:  </b>610-690-6882 (work)</h4>
+			<h4><b>Phone:  </b>610-690-6882</h4>
 
 			<center><img src="./img/frombleachers.jpg"></center>
 
