@@ -59,7 +59,7 @@ File: registration.php
 			<h4>Balance will be due on [tbd]</h4>
 
 			<h3><b>For Group & Team Discounts</b></h3>
-			<h4>Please contact Eric Wagner at <a href="#">ewagner1@swarthmore.edu</a> or at 610-690-6882.</h4>
+			<h4>Please contact Eric Wagner at <i>ewagner1@swarthmore.edu</i> or at 610-690-6882.</h4>
 
 			<hr>
 

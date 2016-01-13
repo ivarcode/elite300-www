@@ -45,6 +45,15 @@ File: contact.php
 
 			<hr>
 
+			<img src="./img/e300_banner.jpg" class="pull-right">
+
+			<h2>Contact <a href="./staff/ewagner.php" style="color: #FFFFFF;"><i>Eric Wagner</i></a></h2>
+
+			<h4><b>Email:  </b>ewagner1@swarthmore.edu</h4>
+			<h4 style="margin-bottom: 500px;"><b>Phone:  </b>610-690-6882 (work)</h4>
+
+			<hr>
+
 
 		</div><!-- end container -->
 
