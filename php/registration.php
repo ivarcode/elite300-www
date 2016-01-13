@@ -5,31 +5,31 @@ File: registration.php
 
 <!DOCTYPE html>
 <html>
-	<head>
-		<!-- Website Title & Description -->
-		<title>Tuition and Registration</title>
-		<meta name="description" content="">
-		
-		<link rel="shortcut icon" href="img/e300.ico" type="e300/ico" />
-		
-		<!-- Mobile viewport optimized -->
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-		
-		<!-- Bootstrap CSS -->
-		<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
-		<link href="../includes/css/bootstrap-glyphicons.css" rel="stylesheet">
-		
-		<!-- Custom CSS -->
-		<link href="../includes/css/styles.css" rel="stylesheet">
+<head>
+	<!-- Website Title & Description -->
+	<title>Tuition and Registration</title>
+	<meta name="description" content="">
 
-		<!-- including FireBase script -->
-		<script src="https://cdn.firebase.com/js/client/2.2.9/firebase.js"></script>
-		
-		<!-- Include Modernizr in the head, before any other Javascript -->
-		<script src="../includes/js/modernizr-2.6.2.min.js"></script>
-	</head>
-	<body>
-		<div class="background">
+	<link rel="shortcut icon" href="img/e300.ico" type="e300/ico" />
+
+	<!-- Mobile viewport optimized -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+	<!-- Bootstrap CSS -->
+	<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link href="../includes/css/bootstrap-glyphicons.css" rel="stylesheet">
+
+	<!-- Custom CSS -->
+	<link href="../includes/css/styles.css" rel="stylesheet">
+
+	<!-- including FireBase script -->
+	<script src="https://cdn.firebase.com/js/client/2.2.9/firebase.js"></script>
+
+	<!-- Include Modernizr in the head, before any other Javascript -->
+	<script src="../includes/js/modernizr-2.6.2.min.js"></script>
+</head>
+<body>
+	<div class="background">
 		<!-- Layout -->
 		<div class="container" id="main">
 			
@@ -53,6 +53,7 @@ File: registration.php
 			<h5>* This includes room and meals, all training and match play, the exclusive Elite 300 College Soccer Recruiting Seminar & the exclusive Elite 300 Sports Psychology Seminar, and the exclusive Elite 300 Soccer Academy uniform.</h5>
 
 			<h3><b>Airport Shuttle</b></h3>
+			<a href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=3707797&RF=11711005"><img src="./img/register_button300x75.png" class="pull-right" style="margin-right:30px;"></a>
 			<h4>One Way: $25</h4>
 			<h4>Round Trip: $35</h4>
 
@@ -86,20 +87,20 @@ File: registration.php
 
 		</div><!-- end container -->
 
-		</div><!--end background -->
+	</div><!--end background -->
 
-		<?php include './footer.php';?>
+	<?php include './footer.php';?>
 
-		<!-- All Javascript at the bottom of the page for faster page loading -->
-		<!-- First try for the online version of jQuery-->
-		<script src="http://code.jquery.com/jquery.js"></script>
-		<!-- If no online access, fallback to our hardcoded version of jQuery -->
-		<script>window.jQuery || document.write('<script src="includes/js/jquery-1.8.2.min.js"><\/script>')</script>
-		<!-- Bootstrap JS -->
-		<script src="bootstrap/js/bootstrap.min.js"></script>
-		<!-- Custom JS -->
-		<script src="includes/js/script.js"></script>
+	<!-- All Javascript at the bottom of the page for faster page loading -->
+	<!-- First try for the online version of jQuery-->
+	<script src="http://code.jquery.com/jquery.js"></script>
+	<!-- If no online access, fallback to our hardcoded version of jQuery -->
+	<script>window.jQuery || document.write('<script src="includes/js/jquery-1.8.2.min.js"><\/script>')</script>
+	<!-- Bootstrap JS -->
+	<script src="bootstrap/js/bootstrap.min.js"></script>
+	<!-- Custom JS -->
+	<script src="includes/js/script.js"></script>
 
-	</body>
+</body>
 </html>
 
