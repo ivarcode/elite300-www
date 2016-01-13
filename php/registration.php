@@ -45,10 +45,12 @@ File: registration.php
 
 			<center><h3>Elite 300 Soccer Academy & Elite 300 Juniors Tuition:</h3></center>
 
+			<img src="./img/teamshot_1.jpg" class="pull-right" style="margin-top:40px; margin-left:40px;">
+
 			<h3><b>Tuition</b></h3>
 			<h4>Overnight Camper: $645</h4>
 			<h4>Commuter: $525</h4>
-			<h5>* This includes room and meals, all training and match play, and the exclusive Elite 300 Soccer Academy uniform.</h5>
+			<h5>* This includes room and meals, all training and match play, the exclusive Elite 300 College Soccer Recruiting Seminar & the exclusive Elite 300 Sports Psychology Seminar, and the exclusive Elite 300 Soccer Academy uniform.</h5>
 
 			<h3><b>Airport Shuttle</b></h3>
 			<h4>One Way: $25</h4>
@@ -59,7 +61,7 @@ File: registration.php
 			<h4>Balance will be due on [tbd]</h4>
 
 			<h3><b>For Group & Team Discounts</b></h3>
-			<h4>Please contact Eric Wagner at <i>ewagner1@swarthmore.edu</i> or at 610-690-6882.</h4>
+			<h4 style="margin-right:650px;">Please contact Eric Wagner at <i>ewagner1@swarthmore.edu</i> or at 610-690-6882.</h4>
 
 			<hr>
 
