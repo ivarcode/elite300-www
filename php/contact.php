@@ -45,12 +45,12 @@ File: contact.php
 
 			<hr>
 
-			<center><img src="./img/e300_banner.jpg" class="pull-right" style="margin-bottom:30px; margin-right:74px;">
+			<img src="./img/e300_banner.jpg" class="pull-right" style="margin-bottom:30px; margin-right:74px;">
 
-			<h2>Contact <a href="./staff/ewagner.php" style="color: #FFFFFF;"><i>Eric Wagner</i></a></h2>
+			<h2 style="margin-top:80px;">Contact Elite 300 Soccer Academy</h2>
 
 			<h4><b>Email:  </b>ewagner1@swarthmore.edu</h4>
-			<h4><b>Phone:  </b>610-690-6882 (work)</h4></center>
+			<h4><b>Phone:  </b>610-690-6882 (work)</h4>
 
 			<center><img src="./img/frombleachers.jpg"></center>
 
