@@ -44,7 +44,7 @@ File: index.php
 			
 			<!--<center><h1><i>Elite 300 Soccer Academy</i></h1></center>-->
 
-			<center><a href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=3707797&RF=11711005"><button type="" name="register" style="background: url(./img/register_button300x75.png); width:300px; height:75px; border:none;"></button></a></center>
+			<center><a href="./php/registration.php"><button type="" name="register" style="background: url(./img/register_button300x75.png); width:300px; height:75px; border:none;"></button></a></center>
 			<center><h4>Session 1: July 02 - 06, 2016</h4></center>
 			<center><h4>Session 2: July 06 - 10, 2016</h4></center>
 
