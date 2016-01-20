@@ -48,7 +48,7 @@ File: index.php
 			<center><h4>Session 1: July 02 - 06, 2016</h4></center>
 			<center><h4>Session 2: July 06 - 10, 2016</h4></center>
 
-			<center><h3>The Elite 300 Soccer Academy is the premier training camp in the country for high school boys.  The renowned staff includes some of the nation&rsquo;s top college coaches, from some of the top college and university soccer program in the country.</h3></center>
+			<center><h3>The Elite 300 Soccer Academy is the premier training camp in the country for high school and middle school boys.  The renowned staff includes some of the nation&rsquo;s top college coaches, from some of the top college and university soccer program in the country.</h3></center>
 			<center><h3>If you aspire to play at the college level, this is the best program for you.</h3></center>
 
 			<hr>
