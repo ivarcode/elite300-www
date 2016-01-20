@@ -8,13 +8,32 @@ File: styles.css
    -------------------------------------- */
 .background {
    /*background-image: url("../../img/bg_image.jpg");*/
-   background-color: #006bb3;
+   background-color: #00134d;
    background-repeat: no-repeat;
    background-position: center;
    background-size: cover;
    width: 100%;
    height: 100%;
    color: #ffffff;
+}
+
+#index_main {
+   background: #003166;
+   padding: 10px;
+}
+
+#reg_1 {
+   background: #003166;
+   padding: 10px;
+}
+#reg_2 {
+   background: #003166;
+   padding: 10px;
+}
+
+#ourprog_body {
+   background: #003166;
+   padding: 10px;
 }
 
 .row {
@@ -44,7 +63,8 @@ File: styles.css
 }
 
 #coaches {
-   margin-bottom: 0px;
+   margin: 10px;
+   background: #003166;
 }
 
 #coach-bio img {

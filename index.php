@@ -5,31 +5,31 @@ File: index.php
 
 <!DOCTYPE html>
 <html>
-	<head>
-		<!-- Website Title & Description -->
-		<title>elite300.com</title>
-		<meta name="description" content="">
-		
-		<link rel="shortcut icon" href="img/e300.ico" type="e300/ico" />
+<head>
+	<!-- Website Title & Description -->
+	<title>elite300.com</title>
+	<meta name="description" content="">
 
-		<!-- Mobile viewport optimized -->
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<link rel="shortcut icon" href="img/e300.ico" type="e300/ico" />
 
-		<!-- Bootstrap CSS -->
-		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
-		<link href="includes/css/bootstrap-glyphicons.css" rel="stylesheet">
+	<!-- Mobile viewport optimized -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<!-- Custom CSS -->
-		<link href="includes/css/styles.css" rel="stylesheet">
+	<!-- Bootstrap CSS -->
+	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link href="includes/css/bootstrap-glyphicons.css" rel="stylesheet">
 
-		<!-- including FireBase script -->
-		<script src="https://cdn.firebase.com/js/client/2.2.9/firebase.js"></script>
+	<!-- Custom CSS -->
+	<link href="includes/css/styles.css" rel="stylesheet">
 
-		<!-- Include Modernizr in the head, before any other Javascript -->
-		<script src="includes/js/modernizr-2.6.2.min.js"></script>
-	</head>
-	<body>
-		<div class="background">
+	<!-- including FireBase script -->
+	<script src="https://cdn.firebase.com/js/client/2.2.9/firebase.js"></script>
+
+	<!-- Include Modernizr in the head, before any other Javascript -->
+	<script src="includes/js/modernizr-2.6.2.min.js"></script>
+</head>
+<body>
+	<div class="background">
 		<!-- Layout -->
 		<div class="container" id="main">
 
@@ -40,17 +40,22 @@ File: index.php
 
 			
 			<center><img src="./img/logo.png"></center>
+
+			<center><h1>The Elite 300 Soccer Academy</h1></center>
+			<hr>
+
 			<p></p>
 			
 			<!--<center><h1><i>Elite 300 Soccer Academy</i></h1></center>-->
+			<div id="index_main">
+				<center><a href="./php/registration.php"><button type="" name="register" style="background: url(./img/register_button300x75.png); width:300px; height:75px; border:none;"></button></a></center>
+				<center><h4>Session 1: July 02 - 06, 2016</h4></center>
+				<center><h4>Session 2: July 06 - 10, 2016</h4></center>
 
-			<center><a href="./php/registration.php"><button type="" name="register" style="background: url(./img/register_button300x75.png); width:300px; height:75px; border:none;"></button></a></center>
-			<center><h4>Session 1: July 02 - 06, 2016</h4></center>
-			<center><h4>Session 2: July 06 - 10, 2016</h4></center>
-
-			<center><h3>The Elite 300 Soccer Academy is the premier training camp in the country for high school and middle school boys.  The renowned staff includes some of the nation&rsquo;s top college coaches, from some of the top college and university soccer program in the country.</h3></center>
-			<center><h3>If you aspire to play at the college level, this is the best program for you.</h3></center>
-
+				<center><h3>The Elite 300 Soccer Academy is the premier training camp in the country for high school and middle school boys.  The renowned staff includes some of the nation&rsquo;s top college coaches, from some of the top college and university soccer program in the country.</h3></center>
+				<center><h3>If you aspire to play at the college level, this is the <i>best</i> program for you.</h3>
+				</center>
+			</div>
 			<hr>
 
 			<div class="carousel slide" id="slideshow">
@@ -147,21 +152,21 @@ File: index.php
 			</div>
 		-->
 
-		</div><!-- end container -->
+	</div><!-- end container -->
 
-		</div><!--end background -->
+</div><!--end background -->
 
-		<?php include './php/footer.php';?>
+<?php include './php/footer.php';?>
 
-		<!-- All Javascript at the bottom of the page for faster page loading -->
-		<!-- First try for the online version of jQuery-->
-		<script src="http://code.jquery.com/jquery.js"></script>
-		<!-- If no online access, fallback to our hardcoded version of jQuery -->
-		<script>window.jQuery || document.write('<script src="includes/js/jquery-1.8.2.min.js"><\/script>')</script>
-		<!-- Bootstrap JS -->
-		<script src="bootstrap/js/bootstrap.min.js"></script>
-		<!-- Custom JS -->
-		<script src="includes/js/script.js"></script>
+<!-- All Javascript at the bottom of the page for faster page loading -->
+<!-- First try for the online version of jQuery-->
+<script src="http://code.jquery.com/jquery.js"></script>
+<!-- If no online access, fallback to our hardcoded version of jQuery -->
+<script>window.jQuery || document.write('<script src="includes/js/jquery-1.8.2.min.js"><\/script>')</script>
+<!-- Bootstrap JS -->
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<!-- Custom JS -->
+<script src="includes/js/script.js"></script>
 
-	</body>
+</body>
 </html>

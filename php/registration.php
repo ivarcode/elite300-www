@@ -45,32 +45,33 @@ File: registration.php
 
 			<center><h3>Elite 300 Soccer Academy & Elite 300 Juniors Tuition:</h3></center>
 
-			<img src="./img/teamshot_1.jpg" class="pull-right" style="margin-top:40px; margin-left:40px;">
+			<div id="reg_1">
+				<img src="./img/teamshot_1.jpg" class="pull-right" style="margin-top:40px; margin-left:40px;">
 
-			<h3><b>Tuition</b></h3>
-			<h4>Overnight Camper: $645</h4>
-			<h4>Commuter: $525</h4>
-			<h5>* This includes room and meals, all training and match play, the exclusive Elite 300 College Soccer Recruiting Seminar & the exclusive Elite 300 Sports Psychology Seminar, and the exclusive Elite 300 Soccer Academy uniform.</h5>
+				<h3><b>Tuition</b></h3>
+				<h4>Overnight Camper: $645</h4>
+				<h4>Commuter: $525</h4>
+				<h5>* This includes room and meals, all training and match play, the exclusive Elite 300 College Soccer Recruiting Seminar & the exclusive Elite 300 Sports Psychology Seminar, and the exclusive Elite 300 Soccer Academy uniform.</h5>
 
-			<h3><b>Airport Shuttle</b></h3>
-			<a href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=3707797&RF=11711005"><img src="./img/register_button300x75.png" class="pull-right" style="margin-right:30px;"></a>
-			<h4>One Way: $25</h4>
-			<h4>Round Trip: $35</h4>
+				<h3><b>Airport Shuttle</b></h3>
+				<a href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=3707797&RF=11711005"><img src="./img/register_button300x75.png" class="pull-right" style="margin-right:30px;"></a>
+				<h4>One Way: $25</h4>
+				<h4>Round Trip: $35</h4>
 
-			<h3><b>All Registrations</b></h3>
-			<h4>$200 deposit (NON-REFUNDABLE)</h4>
-			<h4>Balance will be due on [tbd]</h4>
+				<h3><b>All Registrations</b></h3>
+				<h4>$200 deposit (NON-REFUNDABLE)</h4>
+				<h4>Balance will be due on [tbd]</h4>
 
-			<h3><b>For Group & Team Discounts</b></h3>
-			<h4 style="margin-right:650px;">Please contact Eric Wagner at <i>ewagner1@swarthmore.edu</i> or at 610-690-6882.</h4>
-
+				<h3><b>For Group & Team Discounts</b></h3>
+				<h4 style="margin-right:650px;">Please contact Eric Wagner at <i>ewagner1@swarthmore.edu</i> or at 610-690-6882.</h4>
+			</div>
 			<hr>
-
-			<h3><b>Refund Policy</b></h3>
-			<h4>$200 deposit is non-refundable</h4>
-			<h4>Prior to June 1, we will refund all monies above and beyond $200 non-refundable deposit.</h4>
-			<h4>After June 1, no refunds will be made.</h4>
-
+			<div id="reg_2">
+				<h3><b>Refund Policy</b></h3>
+				<h4>$200 deposit is non-refundable</h4>
+				<h4>Prior to June 1, we will refund all monies above and beyond $200 non-refundable deposit.</h4>
+				<h4>After June 1, no refunds will be made.</h4>
+			</div>
 			<div class="carousel slide" id="slideshow">
 			</div><!-- end slideshow -->
 
