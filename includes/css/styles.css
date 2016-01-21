@@ -18,22 +18,21 @@ File: styles.css
 }
 
 #index_main {
-   background: #003166;
+   background: #004999;
    padding: 10px;
 }
 
 #reg_1 {
-   background: #003166;
+   background: #004999;
    padding: 10px;
 }
 #reg_2 {
-   background: #003166;
+   background: #004999;
    padding: 10px;
 }
 
 #ourprog_body {
-   background: #003166;
-   padding: 10px;
+   
 }
 
 .row {
@@ -64,7 +63,7 @@ File: styles.css
 
 #coaches {
    margin: 10px;
-   background: #003166;
+   background: #004999;
 }
 
 #coach-bio img {
