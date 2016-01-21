@@ -40,7 +40,7 @@ File: staff.php
 
 			<center><img src="./img/logo.png"></center>
 
-			<center><h1>2015 Staff</h1></center>
+			<center><h1>2016 Staff</h1></center>
 
 			<hr>
 
