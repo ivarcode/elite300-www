@@ -39,9 +39,7 @@ File: index.php
 			<hr>
 
 			
-			<center><img src="./img/logo.png"></center>
-
-			<center><h1>The Elite 300 Soccer Academy</h1></center>
+			<center><img src="./img/banner.jpg"></center>
 			<hr>
 
 			<p></p>

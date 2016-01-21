@@ -38,7 +38,8 @@ File: staff.php
 			<hr>
 			<hr>
 
-			<center><img src="./img/logo.png"></center>
+			<center><img src="../img/banner.jpg"></center>
+			<hr>
 
 			<center><h1>2016 Staff</h1></center>
 

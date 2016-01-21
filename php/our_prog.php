@@ -38,7 +38,8 @@ File: our_prog.php
 			<hr>
 			<hr>
 
-			<center><img src="./img/logo.png"></center>
+			<center><img src="../img/banner.jpg"></center>
+			<hr>
 
 			<center><h1>Our Program</h1></center>
 

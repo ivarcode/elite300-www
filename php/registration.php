@@ -38,7 +38,8 @@ File: registration.php
 			<hr>
 			<hr>
 
-			<center><img src="./img/logo.png"></center>
+			<center><img src="../img/banner.jpg"></center>
+			<hr>
 			<center><h1>Tuition and Registration</h1></center>
 
 			<hr>

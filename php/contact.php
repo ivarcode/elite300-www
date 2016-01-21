@@ -36,10 +36,8 @@ File: contact.php
 			<hr>
 			<hr>
 
-			<center><img src="./img/logo.png"></center>
-
-			<div class="carousel slide" id="slideshow">
-			</div><!-- end slideshow -->
+			<center><img src="../img/banner.jpg"></center>
+			<hr>
 
 			<center><h1>Contact Us</h1></center>
 
