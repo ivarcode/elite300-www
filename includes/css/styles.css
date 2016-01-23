@@ -18,7 +18,8 @@ File: styles.css
 }
 
 #index_main {
-   background: #004999;
+   background-image: url("../../img/index_main_bg.png");
+   background-position: right top;
    padding: 10px;
 }
 

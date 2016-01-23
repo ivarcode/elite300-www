@@ -46,8 +46,9 @@ File: index.php
 			
 			<!--<center><h1><i>Elite 300 Soccer Academy</i></h1></center>-->
 			<div id="index_main">
+				
 				<center><a href="./php/registration.php"><button type="" name="register" style="background: url(./img/register_button300x75.png); width:300px; height:75px; border:none;"></button></a></center>
-				<img style="position:absolute;top:270px;right:368px;" src="./img/earlybirdspecial.png">
+
 				<center><h4>Session 1: July 02 - 06, 2016</h4></center>
 				<center><h4>Session 2: July 06 - 10, 2016</h4></center>
 
