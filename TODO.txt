@@ -5,8 +5,3 @@ TODO LIST:
 - ourprog page updates
 
 
-
-
-
-old bg color
-006bb3
