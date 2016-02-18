@@ -48,14 +48,20 @@ File: staff.php
 			<center><h3>These college & university soccer programs are represented on the Elite 300 Soccer Academy staff:</h3></center>
 
 			<div id="logos">
-				<center><a href="#" title="Penn"><img src="./img/penn_logo.jpg"></a>
-					<a href="#" title="Swarthmore"><img src="./img/swarthmore_logo.jpg"></a>
-					<a href="#" title="Georgetown"><img src="./img/georgetown_logo.jpg"></a>
-					<a href="#" title="Drexel"><img src="./img/drexel_logo.jpg"></a>
-					<a href="#" title="Louisville"><img src="./img/louisville_logo.jpg"></a>
-					<a href="#" title="Connecticut College"><img src="./img/connecticut_college_logo.jpg"></a>
-					<a href="#" title="Bowdoin"><img src="./img/bowdoin_logo.jpg"></a>
-					<a href="#" title="Lehigh"><img src="./img/lehigh_logo.jpg"></a>
+				<center>
+					<table>
+						<tr>
+							<td><a href="#" title="Penn"><img src="./img/penn_logo.jpg"></a><p>Penn</p></td>
+							<td><a href="#" title="Swarthmore"><img src="./img/swarthmore_logo.jpg"></a></td>
+							<td><a href="#" title="Georgetown"><img src="./img/georgetown_logo.jpg"></a></td>
+							<td><a href="#" title="Drexel"><img src="./img/drexel_logo.jpg"></a></td>
+							<td><a href="#" title="Louisville"><img src="./img/louisville_logo.jpg"></a></td>
+							<td><a href="#" title="Connecticut College"><img src="./img/connecticut_college_logo.jpg"></a></td>
+							<td><a href="#" title="Bowdoin"><img src="./img/bowdoin_logo.jpg"></a></td>
+							<td><a href="#" title="Lehigh"><img src="./img/lehigh_logo.jpg"></a></td>
+						</tr>
+					</table>
+					
 				</center>
 			</div>
 
