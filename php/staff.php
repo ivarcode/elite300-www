@@ -51,14 +51,14 @@ File: staff.php
 				<center>
 					<table>
 						<tr>
-							<td><a href="#" title="Penn"><img src="./img/penn_logo.jpg"></a><p>Penn</p></td>
-							<td><a href="#" title="Swarthmore"><img src="./img/swarthmore_logo.jpg"></a></td>
-							<td><a href="#" title="Georgetown"><img src="./img/georgetown_logo.jpg"></a></td>
-							<td><a href="#" title="Drexel"><img src="./img/drexel_logo.jpg"></a></td>
-							<td><a href="#" title="Louisville"><img src="./img/louisville_logo.jpg"></a></td>
-							<td><a href="#" title="Connecticut College"><img src="./img/connecticut_college_logo.jpg"></a></td>
-							<td><a href="#" title="Bowdoin"><img src="./img/bowdoin_logo.jpg"></a></td>
-							<td><a href="#" title="Lehigh"><img src="./img/lehigh_logo.jpg"></a></td>
+							<td><a href="#" title="Penn"><img src="./img/penn_logo.jpg"></a><center><h3>Penn</h3></center></td>
+							<td><a href="#" title="Swarthmore"><img src="./img/swarthmore_logo.jpg"></a><center><h3>Swarthmore</h3></center></td>
+							<td><a href="#" title="Georgetown"><img src="./img/georgetown_logo.jpg"></a><center><h3>Georgetown</h3></center></td>
+							<td><a href="#" title="Drexel"><img src="./img/drexel_logo.jpg"></a><center><h3>Drexel</h3></center></td>
+							<td><a href="#" title="Louisville"><img src="./img/louisville_logo.jpg"></a><center><h3>Louisville</h3></center></td>
+							<td><a href="#" title="Connecticut College"><img src="./img/connecticut_college_logo.jpg"></a><center><h3>Connecticut College</h3></center></td>
+							<td><a href="#" title="Bowdoin"><img src="./img/bowdoin_logo.jpg"></a><center><h3>Bowdoin</h3></center></td>
+							<td><a href="#" title="Lehigh"><img src="./img/lehigh_logo.jpg"></a><center><h3>Lehigh</h3></center></td>
 						</tr>
 					</table>
 					
