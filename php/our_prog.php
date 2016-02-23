@@ -59,16 +59,43 @@ File: our_prog.php
 			<div>
 				<center><h3>Weekly Schedule</h3></center>
 				<hr>
-				<div class="pull-left" style="margin-right:20px;">
-					<h4><b>Day 1:</b></h4>
+				<div class="pull-left" style="width:33%;padding:10px;">
+					<div class="pull-left">
+						<h4><b>Day 1:</b></h4>
+					</div>
+					<div class="pull-left">
+						<h4>Arrive / Check-in</h4>
+						<h4>Welcome & Introductions</h4>
+						<h4>Dinner</h4>
+						<h4>Evening Training Session</h4>
+						<h4>* Elite 300 Soccer Academy Exclusive College Soccer Recruiting Seminar *</h4>
+					</div>
 				</div>
-				<div>
-					<h4>Arrive / Check-in</h4>
-					<h4>Welcome & Introductions</h4>
-					<h4></h4>
-					<h4>Arrive / Check-in</h4>
-					<h4>Arrive / Check-in</h4>
+				<div class="pull-left" style="width:33%;padding:10px;">
+					<div class="pull-left">
+						<h4><b>Days 2-4:</b></h4>
+					</div>
+					<div class="pull-left">
+						<h4>Breakfast</h4>
+						<h4>Morning Training or Match Session</h4>
+						<h4>Lunch</h4>
+						<h4>Afternoon Training or Match Session</h4>
+						<h4>Dinner</h4>
+						<h4>Evening Training or Match Session</h4>
+						<h4>* Day 2 - Elite 300 Soccer Academy Exclusive Sports Psychology Seminar *</h4>
+					</div>
 				</div>
+				<div class="pull-left" style="width:20%;padding:10px;">
+					<div class="pull-left">
+						<h4><b>Day 5:</b></h4>
+					</div>
+					<div class="pull-left">
+						<h4>Breakfast</h4>
+						<h4>Final Match Session</h4>
+						<h4>Depart</h4>
+					</div>
+				</div>
+				<div class="pull-left"></div>
 			</div>
 			<div class="carousel slide" id="slideshow">
 			</div><!-- end slideshow -->
