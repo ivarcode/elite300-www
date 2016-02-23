@@ -55,6 +55,21 @@ File: our_prog.php
 				<h4>The outstanding facilities at Swarthmore College, the challenging and competitive program, and the matches against top-level competitive soccer players from all over the country and around the world will enable each Elite 300 Soccer Academy player to have a great opportunity to showcase their abilities during the session.</h4>
 				<h4>Similarly, the Elite 300 Juniors is for boys entering 6th-8th grades, and is a high-level training program for competitive players looking to enhance their game.  The Elite 300 Juniors utilizes the same schedule, facilities, and program as the Elite 300 Soccer Academy.  For more information, call us here: 610-690-6882.</h4>
 			</div>
+			<hr>
+			<div>
+				<center><h3>Weekly Schedule</h3></center>
+				<hr>
+				<div class="pull-left" style="margin-right:20px;">
+					<h4><b>Day 1:</b></h4>
+				</div>
+				<div>
+					<h4>Arrive / Check-in</h4>
+					<h4>Welcome & Introductions</h4>
+					<h4></h4>
+					<h4>Arrive / Check-in</h4>
+					<h4>Arrive / Check-in</h4>
+				</div>
+			</div>
 			<div class="carousel slide" id="slideshow">
 			</div><!-- end slideshow -->
 
