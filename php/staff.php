@@ -55,7 +55,7 @@ File: staff.php
 							<td><a href="#" title="Swarthmore"><img src="./img/swarthmore_logo.jpg"></a><center><h5>Swarthmore</h5></center></td>
 							<td><a href="#" title="Georgetown"><img src="./img/georgetown_logo.jpg"></a><center><h5>Georgetown</h5></center></td>
 							<td><a href="#" title="Drexel"><img src="./img/drexel_logo.jpg"></a><center><h5>Drexel</h5></center></td>
-							<td><a href="#" title="Louisville"><img src="./img/louisville_logo.jpg"></a><center><h5>Louisville</h5></center></td>
+							
 							<td><a href="#" title="Connecticut College"><img src="./img/connecticut_college_logo.jpg"></a><center><h5>Connecticut College</h5></center></td>
 							<td><a href="#" title="Bowdoin"><img src="./img/bowdoin_logo.jpg"></a><center><h5>Bowdoin</h5></center></td>
 							<td><a href="#" title="Lehigh"><img src="./img/lehigh_logo.jpg"></a><center><h5>Lehigh</h5></center></td>

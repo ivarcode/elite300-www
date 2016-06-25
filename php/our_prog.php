@@ -52,7 +52,7 @@ File: our_prog.php
 			<div id="ourprog_body">
 				<h4>The Elite 300 Soccer Academy is the premier training camp in the country for high school and middle school boys.  The renowned staff includes some of the nation&rsquo;s top college coaches, from some of the top college and university soccer program in the country.</h4>
 				<h4>Our training program challenges the Elite 300 Soccer Academy participants to improve their technical, tactical, and physical abilities, as well as introducing the mental and emotional aspects of the college game to through our unique Sports Psychology Seminar.  We also host the popular College Recruiting Seminar, which helps aspiring college players to navigate the intricate and sometimes confusing world of the college soccer recruiting process.</h4>
-				<h4>The outstanding facilities at Swarthmore College, the challenging and competitive program, and the matches against top-level competitive soccer players from all over the country and around the world will enable each Elite 300 Soccer Academy player to have a great opportunity to showcase their abilities during the session.</h4>
+				<h4><a href="http://www.swarthmoreathletics.com/">The outstanding facilities at Swarthmore College</a>, the challenging and competitive program, and the matches against top-level competitive soccer players from all over the country and around the world will enable each Elite 300 Soccer Academy player to have a great opportunity to showcase their abilities during the session.</h4>
 				<h4>Similarly, the Elite 300 Juniors is for boys entering 6th-8th grades, and is a high-level training program for competitive players looking to enhance their game.  The Elite 300 Juniors utilizes the same schedule, facilities, and program as the Elite 300 Soccer Academy.  For more information, call us here: 610-690-6882.</h4>
 			</div>
 			<hr>
@@ -64,7 +64,7 @@ File: our_prog.php
 						<h4><b>Day 1:</b></h4>
 					</div>
 					<div class="pull-left">
-						<h4>Arrive / Check-in</h4>
+						<h4>Arrive / Check-in (1:30-3:00pm)</h4>
 						<h4>Welcome & Introductions</h4>
 						<h4>Dinner</h4>
 						<h4>Evening Training Session</h4>
@@ -92,7 +92,7 @@ File: our_prog.php
 					<div class="pull-left">
 						<h4>Breakfast</h4>
 						<h4>Final Match Session</h4>
-						<h4>Depart</h4>
+						<h4>Depart (10:00am)</h4>
 					</div>
 				</div>
 				<div class="pull-left"></div>
